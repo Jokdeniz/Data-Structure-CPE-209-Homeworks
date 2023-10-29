@@ -1,7 +1,7 @@
 // Data Structures Assignment I
-// Mustafa Eren Hızarcı
-// 2110213018
-// Karabuk University Computer Engineering Department
+// Özgür Deniz Fıstıkçı
+// 2010213043
+// Computer Engineering Department Karabuk University
 
 #include <stdio.h>
 #include <stdlib.h>
